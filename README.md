@@ -2,7 +2,7 @@
 This is my Neovim config using the Vim Language file (init.vim)
 
 ## Important notes
-To this config, I am using [https://github.com/junegunn/vim-plug](Vim Plug) to manage all plugins and [https://github.com/neoclide/coc.nvim](Conquer of Completion) to work with autocompletion and some aditional plugins
+To this config, I am using [Vim Plug](https://github.com/junegunn/vim-plug) to manage all plugins and [Conquer of Completion](https://github.com/neoclide/coc.nvim) to work with autocompletion and some aditional plugins
 
 ## Coquer of Completion
 By the way, I am using a list of aditional plugins with CoC and that is:
